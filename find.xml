@@ -1,0 +1,25 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*Controller.java</mask>
+    <mask>ShelfABTest*.java</mask>
+    <mask>tair-client.conf</mask>
+    <mask>*ManagerImpl.java</mask>
+    <mask>Aggregation*.xml</mask>
+    <mask>*.properties</mask>
+    <mask>*VO.java</mask>
+    <mask>*Template*.java</mask>
+    <mask>*.java</mask>
+    <mask>pom.xml</mask>
+    <mask>*.xml</mask>
+    <mask>*.yml</mask>
+  </component>
+</application>

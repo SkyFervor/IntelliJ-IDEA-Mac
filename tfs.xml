@@ -1,0 +1,17 @@
+<application>
+  <component name="org.jetbrains.tfsIntegration.core.configuration.TFSConfigurationManager">
+    <option name="config">
+      <map>
+        <server uri="">
+          <value>
+            <configuration>
+              <credentials>
+                <credentials type="NtlmNative" />
+              </credentials>
+            </configuration>
+          </value>
+        </server>
+      </map>
+    </option>
+  </component>
+</application>

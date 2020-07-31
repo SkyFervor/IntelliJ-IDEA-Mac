@@ -1,0 +1,13 @@
+<application>
+  <component name="SetterTemplates">
+    <option name="defaultTempalteName" value="IntelliJ Default" />
+    <option name="templates">
+      <list>
+        <TemplateResource>
+          <option name="fileName" value="My" />
+          <option name="template" value="#set($paramName = $field.name)&#10;#if($field.modifierStatic)&#10;static ##&#10;#end&#10;void set$StringUtil.capitalizeWithJavaBeanConvention($StringUtil.sanitizeJavaIdentifier($field.name))($field.type $paramName) {&#10;&#9;#if ($field.name == $paramName)&#10;&#9;&#9;#if (!$field.modifierStatic)&#10;&#9;&#9;&#9;this.##&#10;&#9;&#9;#else&#10;&#9;&#9;&#9;$classname.##&#10;&#9;&#9;#end&#10;&#9;#end&#10;&#9;$field.name = $paramName;&#10;}" />
+        </TemplateResource>
+      </list>
+    </option>
+  </component>
+</application>
