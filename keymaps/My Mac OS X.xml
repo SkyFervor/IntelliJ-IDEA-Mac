@@ -235,6 +235,9 @@
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="ctrl meta right" />
   </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="meta help" />
+  </action>
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="ctrl alt b" />
     <mouse-shortcut keystroke="control alt button1" />
