@@ -18,9 +18,9 @@
     <mask>*VO.java</mask>
     <mask>*Template*.java</mask>
     <mask>*.java</mask>
-    <mask>pom.xml</mask>
     <mask>*.xml</mask>
     <mask>*.yml</mask>
     <mask>*.pom</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
