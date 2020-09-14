@@ -21,7 +21,7 @@
     <mask>*.xml</mask>
     <mask>pom.xml</mask>
     <mask>*Request.java</mask>
-    <mask>*.yml</mask>
     <mask>*.java</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
