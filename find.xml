@@ -18,10 +18,10 @@
     <mask>*VO.java</mask>
     <mask>*Template*.java</mask>
     <mask>*.pom</mask>
-    <mask>*Request.java</mask>
     <mask>pom.xml</mask>
     <mask>*.yml</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*Request.java</mask>
   </component>
 </application>
