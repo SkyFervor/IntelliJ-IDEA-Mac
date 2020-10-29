@@ -20,9 +20,9 @@
     <mask>*.pom</mask>
     <mask>*.xml</mask>
     <mask>*Request.java</mask>
-    <mask>*.yml</mask>
     <mask>*.java</mask>
     <mask>pom.xml</mask>
     <mask>*MO.java</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
