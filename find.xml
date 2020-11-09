@@ -22,7 +22,7 @@
     <mask>*Request.java</mask>
     <mask>*MO.java</mask>
     <mask>*.yml</mask>
-    <mask>pom.xml</mask>
     <mask>*.java</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
