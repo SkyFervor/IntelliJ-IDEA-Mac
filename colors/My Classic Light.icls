@@ -1,0 +1,31 @@
+<scheme name="My Classic Light" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2020-12-24T11:58:02</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2020.1.4.0.0</property>
+    <property name="modified">2020-12-24T12:15:39</property>
+    <property name="originalScheme">Classic Light</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.2" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Courier New" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
+  </font>
+  <attributes>
+    <option name="DEFAULT_CLASS_NAME">
+      <value>
+        <option name="FOREGROUND" value="7d7d7d" />
+      </value>
+    </option>
+    <option name="DEFAULT_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="80ff" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
