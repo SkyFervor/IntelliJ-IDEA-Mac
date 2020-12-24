@@ -4,7 +4,7 @@
     <property name="created">2020-12-24T11:58:02</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.1.4.0.0</property>
-    <property name="modified">2020-12-24T15:35:07</property>
+    <property name="modified">2020-12-24T20:22:53</property>
     <property name="originalScheme">Classic Light</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -24,7 +24,7 @@
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="696900" />
+        <option name="FOREGROUND" value="9b6400" />
       </value>
     </option>
   </attributes>
