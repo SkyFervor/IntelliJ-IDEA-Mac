@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -14,7 +15,6 @@
     <mask>tair-client.conf</mask>
     <mask>*ManagerImpl.java</mask>
     <mask>Aggregation*.xml</mask>
-    <mask>*.properties</mask>
     <mask>*VO.java</mask>
     <mask>*Template*.java</mask>
     <mask>*.pom</mask>
@@ -23,6 +23,7 @@
     <mask>*MO.java</mask>
     <mask>pom.xml</mask>
     <mask>*.yml</mask>
+    <mask>*.properties</mask>
     <mask>*.java</mask>
   </component>
 </application>
