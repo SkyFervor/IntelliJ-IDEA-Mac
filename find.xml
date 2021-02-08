@@ -20,10 +20,10 @@
     <mask>*.xml</mask>
     <mask>*Request.java</mask>
     <mask>*MO.java</mask>
-    <mask>pom.xml</mask>
     <mask>*request.java</mask>
     <mask>*.properties</mask>
     <mask>*.yml</mask>
     <mask>*.java</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
