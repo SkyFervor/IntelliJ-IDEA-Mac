@@ -21,9 +21,9 @@
     <mask>*Request.java</mask>
     <mask>*MO.java</mask>
     <mask>*request.java</mask>
-    <mask>*.yml</mask>
     <mask>pom.xml</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
