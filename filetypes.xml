@@ -5,6 +5,7 @@
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping ext="kotlin_module" type="PLAIN_TEXT" />
+      <mapping ext="lua" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
