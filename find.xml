@@ -23,7 +23,7 @@
     <mask>*.properties</mask>
     <mask>*.yml</mask>
     <mask>pom.xml</mask>
-    <mask>*.java</mask>
     <mask>*Controller.java</mask>
+    <mask>*.java</mask>
   </component>
 </application>
