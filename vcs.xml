@@ -10,6 +10,10 @@
           <option name="url" value="http://git.sankuai.com" />
           <option name="userName" value="zhangshuhao02" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://bitbucket.kucoin.net" />
+          <option name="userName" value="SkyFervor@corp.kucoin.com" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
