@@ -23,7 +23,7 @@
     <mask>*Controller.java</mask>
     <mask>*Request.java</mask>
     <mask>pom.xml</mask>
-    <mask>*.java</mask>
     <mask>*.yml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
